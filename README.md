@@ -1,2 +1,10 @@
 # UltraEdit Website (HTML,CSS)
 UltraEdit Website created by using html, css technologies. In it, I use flexbox, grid, svg's, buttons and IDs, classes and so many essential properties which makes it better. 
+![1](https://github.com/VishnuSolanki1/UltraEdit-website-in-HTML-CSS/assets/154900170/2df9a266-355d-46dc-a892-356e2e575f1f)
+![2](https://github.com/VishnuSolanki1/UltraEdit-website-in-HTML-CSS/assets/154900170/e4f4d30d-eb3e-4753-853d-bb9b1b4c8d4e)
+![3](https://github.com/VishnuSolanki1/UltraEdit-website-in-HTML-CSS/assets/154900170/db651598-84a1-461a-bf4a-9ad2c936b16a)
+![4](https://github.com/VishnuSolanki1/UltraEdit-website-in-HTML-CSS/assets/154900170/26826d8c-64fe-4398-a4b5-a87bf0d026e6)
+![5](https://github.com/VishnuSolanki1/UltraEdit-website-in-HTML-CSS/assets/154900170/ff649b9f-57b0-4bfc-9a37-790c86a9784a)
+![6](https://github.com/VishnuSolanki1/UltraEdit-website-in-HTML-CSS/assets/154900170/7f4ffed1-f302-45f3-90f5-16e81292a574)
+![7](https://github.com/VishnuSolanki1/UltraEdit-website-in-HTML-CSS/assets/154900170/e70690f0-92e7-4f19-ab21-797359f339be)
+![8](https://github.com/VishnuSolanki1/UltraEdit-website-in-HTML-CSS/assets/154900170/50e1d4d8-49f8-4411-afcb-e7504d06d32a)
